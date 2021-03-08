@@ -10,5 +10,64 @@ https://docs.google.com/document/d/1Vj5fRDKRoIJDs2B8oN7ehJF3lZ0iQijNB7DxUwajJ4g/
 
 ---
 
-## Motivatino
+## Motivation
 
+- UTM study spaces are often packed with students. It is hard to find a spot that fulfills with certain needs
+- Students don’t know which building has the most availability
+
+---
+
+## Target User
+
+- Current UTM Students who often study on campus
+
+---
+
+## User Reserch
+
+
+### Questionnaire 
+- Two questionnaires were distributed
+- Targeted users included UTM students
+- Second questionnaire was a modified version of the first to eliminate bias 
+
+#### Questionnaire #1 Results and analysis
+- A higher demand for using school facilities from upper year students
+- The quiet and silent zones are the most popular study spaces chosen
+- Around 80% of participants used school facilities
+
+#### Questionnaire #2 Results and analysis
+
+- Students are not always using the library
+- Besides the silent/quiet zones, different majors required students to seek specialized study spaces
+- More 2nd Years and 1st Years responded this time
+- Students often find their first desired study spot to be occupied
+
+### Interview
+- 11 questions
+- interviews were made with consent
+- All interviewees are UTM students from different programs
+
+#### Analysis:
+- Students in different programs usually go to different study space
+
+---
+
+## Product Prototype
+
+### Usability TEst Results & Problem of Lo-fi Prototype
+
+- Presentation of availability bars is not clear
+- Too complicated operating system
+- Do not have any quick search functions
+- User does not know whether the index page can scroll up/down
+- Indication of needed facilities in the output page is not convenient. User needs to check through every floors to find needed facilities
+
+### High-fidelity Prototype
+- Rearranged design layout
+- Added quick search bars for easier access
+- Added icons of facilities
+- Added a scroll bar
+- Added a color and a percentage in availability bars
+- Made searching facilities and its corresponding floor/level red
+- Added a background image in each output page
