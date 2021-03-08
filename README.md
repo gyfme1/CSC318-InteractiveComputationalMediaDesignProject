@@ -1,2 +1,2 @@
 # CSC318-InteractiveComputationalMediaDesignProject
-CSC318-InteractiveCOmputationalMediaDesignProject
+UTM Study Space Finder APP Design
