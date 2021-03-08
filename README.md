@@ -55,13 +55,17 @@ https://drive.google.com/file/d/1NbE87CDsfDQRHRMvnZrmuAQluZtUzjHj/view?usp=shari
 
 ## Product Prototype
 
-### Usability TEst Results & Problem of Lo-fi Prototype
+### Usability Test Results & Problem of Lo-fi Prototype
 
 - Presentation of availability bars is not clear
 - Too complicated operating system
 - Do not have any quick search functions
 - User does not know whether the index page can scroll up/down
 - Indication of needed facilities in the output page is not convenient. User needs to check through every floors to find needed facilities
+
+<p float="left">
+  <img src="https://github.com/gyfme1/testing/blob/c32da56f85d1ee7a69807552313945a962ab61aa/Low%20Fed%20Pro.png" width="744" height="384" />
+</p>
 
 ### High-fidelity Prototype
 - Rearranged design layout
@@ -71,3 +75,8 @@ https://drive.google.com/file/d/1NbE87CDsfDQRHRMvnZrmuAQluZtUzjHj/view?usp=shari
 - Added a color and a percentage in availability bars
 - Made searching facilities and its corresponding floor/level red
 - Added a background image in each output page
+
+<p float="left">
+  <img src="https://github.com/gyfme1/testing/blob/c32da56f85d1ee7a69807552313945a962ab61aa/High%20Fed%20Prot_1.png" width="400" height="384" />
+  <img src="https://github.com/gyfme1/testing/blob/c32da56f85d1ee7a69807552313945a962ab61aa/High%20Fed%20Prot_2.png" width="400" height="384" />
+</p>
